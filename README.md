@@ -1,1 +1,10 @@
-# CS-340-Client-Server-Development
+This app was designed to help small business owners track their inventory in real-time. The main user need was having a simple, portable way to manage stock levels without complex desktop software.
+
+How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Answer: I break code into logical modules where each component has a specific purpose. For example, database operations are separated from UI logic, making each part easier to understand and modify independently.
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+Answer: As a computer scientist, I approach problems systematically by breaking them down into manageable components and focusing on understanding the real needs behind the requirements. Rather than jumping straight into coding, I start with analysis and planning. For the Grazioso Salvare dashboard project, I applied this systematic approach in stages.
+
+What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+answer: Computer scientists are problem solvers who use technology to make processes more efficient, accurate, and scalable. At the core, we take complex, time-consuming tasks and transform them into automated, reliable systems that save time and reduce human error. Computer science matters because it multiplies human capability. A task that takes a person hours can be completed in seconds by a well-designed system. A decision that required guesswork can now be data-driven. Work that was error-prone becomes reliable. This transformation affects every industry - healthcare, finance, education, transportation, and rescue operations like Grazioso Salvare.
